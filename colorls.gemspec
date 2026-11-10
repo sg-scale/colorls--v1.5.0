@@ -71,7 +71,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'codecov', '~> 0.1'
   spec.add_development_dependency 'diffy', '3.4.2'
   spec.add_development_dependency 'rake', '~> 13'
-  spec.add_development_dependency 'rdoc', '~> 6.1'
+  spec.add_development_dependency 'rdoc', '~> 7.2'
   spec.add_development_dependency 'ronn', '~> 0'
   spec.add_development_dependency 'rspec', '~> 3.7'
   spec.add_development_dependency 'rspec-its', '~> 1.2'
